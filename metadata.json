@@ -1,0 +1,8 @@
+{
+  "name": "LexAI - Enterprise Legal Intelligence",
+  "description": "A high-performance LegalTech platform for AI-powered contract analysis, featuring automated risk detection, LGPD-compliant masking, and interactive document visualization.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
